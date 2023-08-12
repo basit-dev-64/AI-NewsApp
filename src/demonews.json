@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Ben Morse",
+            "title": "Republic of Ireland abandons ‘overly physical’ pre-Women’s World Cup friendly with Colombia after 20 minutes",
+            "description": "A pre-World Cup friendly between Ireland and Colombia on Thursday was abandoned after just 20 minutes after it was deemed “overly physical” by the Football Association of Ireland (FAI).",
+            "url": "https://www.cnn.com/2023/07/15/sport/ireland-colombia-friendly-abandoned-osullivan-wwc-2023-spt-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230715072231-01-ireland-colombia-friendly-0714.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-07-15T11:45:31Z",
+            "content": "A pre-Womens World Cup friendly between the Republic of Ireland and Colombia was abandoned after it was deemed overly physical, the Football Association of Ireland (FAI) said in a statement.\r\nThe beh… [+1860 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": null,
+            "title": "Putin could face arrest if he attends BRICS summit in South Africa - CNN Video",
+            "description": "The International Criminal Court's chief prosecutor, Karim Khan, tells CNN that South Africa should \"do the right thing\" and follow international law if Vladimir Putin attends next month's BRICS summit in Johannesburg. In March, the ICC issued an arrest warra…",
+            "url": "https://www.cnn.com/videos/world/2023/07/15/exp-putin-brics-summit-icc-war-crimes-rdr-071502aseg1-cnni-world.cnn",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/230715045433-exp-putin-brics-summit-icc-war-crimes-rdr-071502aseg1-cnni-world-00002001-super-tease.png",
+            "publishedAt": "2023-07-15T10:07:23.5408449Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "By Joshua Berlinger and Thom Poole, CNN",
+            "title": "Live updates: Russia's war in Ukraine",
+            "description": "Russian President Vladimir Putin called the Wagner Group's legal future into question and suggested a new commander for the private military force in remarks to a Russian newspaper.",
+            "url": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-07-15-23/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/230714111304-01-putin-wagner-fighters-divide-super-tease.jpeg",
+            "publishedAt": "2023-07-15T08:33:55Z",
+            "content": "Russian President Vladimir Putin has proposed to Wagner fighters that a senior mercenary named Andrey Troshev now command the private military group, according to comments the Russian leader made to … [+2629 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Maggie Wong",
+            "title": "Mushroom diplomacy: US Treasury Secretary Janet Yellen sets off culinary craze in China",
+            "description": "During her recent Beijing visit, US Treasury Secretary Janet Yellen gave a Yunnan restaurant chain a huge boost while bringing a fascinating variety of mushroom into the national limelight.",
+            "url": "https://www.cnn.com/travel/yunnan-cuisine-beijing-restaurant-mushrooms-yellen-intl-hnk/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/mushrooms2.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-07-15T02:24:27Z",
+            "content": "Its been several days since US Treasury Secretary Janet Yellen left Beijing, and much has been said about her efforts to repair the US-China relationship.\r\nBut politics aside, her Beijing visit resul… [+10018 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": null,
+            "title": "Bodycam video shows officer punch mother holding three-week-old infant  - CNN Video",
+            "description": "The Los Angeles County Sheriff's Department released body camera footage that shows a deputy punching a mother holding her three-week-old infant during a traffic stop from last July. Sheriff Robert Luna said the punch was \"unacceptable.\"",
+            "url": "https://www.cnn.com/videos/us/2023/07/14/la-deputy-punch-mother-holding-baby-zw-orig.cnn",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/230714160935-la-deputy-punch-mother-holding-baby-2-super-tease.jpg",
+            "publishedAt": "2023-07-14T21:37:16.9458527Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "David Wright, Veronica Stracqualursi",
+            "title": "Pence raises less than $1.2 million during second fundraising quarter, lagging behind GOP rivals",
+            "description": "Former Vice President Mike Pence raised less than $1.2 million for his presidential campaign during the second fundraising quarter that ended June 30, according to a Pence adviser, lagging far behind several Republican rivals who have announced much larger fu…",
+            "url": "https://www.cnn.com/2023/07/14/politics/mike-pence-fundraising-republican-primary/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230714163116-01-mike-pence-0714.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-07-14T21:21:51Z",
+            "content": "Former Vice President Mike Pence raised less than $1.2 million for his presidential campaign during the second fundraising quarter that ended June 30, according to a Pence adviser, lagging far behind… [+3915 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Elisabeth Buchwald",
+            "title": "Are you owed a slice of the $100 million fine Bank of America has to pay?",
+            "description": "Bank of America was fined $250 million this week by US federal regulators for allegedly harming customers by double-dipping on fees, withholding credit card rewards and opening fake accounts.",
+            "url": "https://www.cnn.com/2023/07/14/business/bank-of-america-fine/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230711125104-bank-of-america-branch-0321-restricted.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-07-14T20:43:24Z",
+            "content": "Bank of America was fined $250 million this week by US federal regulators for allegedly harming customers by double-dipping on fees, withholding credit card rewards and opening fake accounts.\r\nOf tho… [+2804 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Lauren Kent, Pierre Bairin, Uliana Pavlova",
+            "title": "What we know about Andrey Troshev, the man Putin proposed as the new Wagner boss",
+            "description": "Russian President Vladimir Putin has proposed to Wagner Group fighters that a senior mercenary named Andrey Troshev now command the private military group, according to comments the Russian leader made to the Kommersant newspaper.",
+            "url": "https://www.cnn.com/2023/07/14/europe/russia-andrey-troshev-wagner-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230714143940-andrey-troshev-file-2016.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-07-14T19:07:57Z",
+            "content": "Russian President Vladimir Putin has proposed to Wagner Group fighters that a senior mercenary named Andrey Troshev now command the private military group, according to comments the Russian leader ma… [+3780 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Melissa Alonso, Shania Shelton",
+            "title": "California voters will decide whether to repeal state’s Prop 8 same sex marriage ban in 2024",
+            "description": "California voters will have the chance to remove language barring same-sex marriage from their state’s constitution in 2024’s general election.",
+            "url": "https://www.cnn.com/2023/07/14/politics/california-prop-8-repeal/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230714080202-capitol-capitol-sacramento-file.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-07-14T17:51:17Z",
+            "content": "California voters will have the chance to remove language barring same-sex marriage from their states constitution in 2024s general election. \r\nThe California Senate passed a proposed constitutional … [+2196 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "",
+            "title": "Video: Italian judge acquits man accused of groping teen because it lasted less than 10 seconds | CNN",
+            "description": "A court ruling that found a school janitor not guilty of groping a student because the act only lasted less than 10 seconds has sparked outrage in Italy. CNN contributor Barbie Latza Nadeau has the story.",
+            "url": "https://www.cnn.com/videos/world/2023/07/13/italy-groping-court-ruling-10-seconds-cnc-contd-vpx.cnn",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230713164539-groping-italy-outrage.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-07-13T22:26:35Z",
+            "content": null
+        }
+    ]
+}
